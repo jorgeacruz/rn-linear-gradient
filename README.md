@@ -32,3 +32,4 @@ npm install
 npx pod-install # iOS only
 npm run android # or npm run ios
 ```
+## That all! Folk!!
