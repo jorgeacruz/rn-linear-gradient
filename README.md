@@ -26,7 +26,7 @@ This repository showcases how to create a **gradient-styled button** using the [
 ## 🚀 How to run the project
 
 ```bash
-git clone https://github.com/yourusername/rn-linear-gradient-button.git
+git clone https://github.com/jorgeacruz/rn-linear-gradient
 cd rn-linear-gradient-button
 npm install
 npx pod-install # iOS only
