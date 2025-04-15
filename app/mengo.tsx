@@ -42,7 +42,7 @@ export default function Flamengo() {
         locations={[0, 0.2, 1]}
         style={styles.background}
       />
-      <Animated.Image source={require('../assets/flu.png')} style={[styles.image, {transform:[{ translateY: floatAnim }]}]} />
+      <Animated.Image source={require('../assets/mengo.png')} style={[styles.image, {transform:[{ translateY: floatAnim }]}]} />
       <View style={styles.ViewButton}>
         <TouchableOpacity style={styles.flags} onPress={() => router.replace('./')}>
           <Text style={styles.text}>Fluminense</Text>
